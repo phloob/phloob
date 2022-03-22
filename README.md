@@ -1,4 +1,4 @@
-### Hey, I'm Phil
+### Hey, I'm Pob
 
 Config management, k8s, Swift
 
@@ -8,7 +8,6 @@ Config management, k8s, Swift
     - 🚴 Ride my bike a lot
 - 👨‍🎨 Stoked 🌴 🏄‍♀️
 
-### Connect with me:
 
 <!-- [<img align="left" alt="max.koerbaecher.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NativeCloud.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rss.svg" />][blog]
@@ -26,7 +25,7 @@ Config management, k8s, Swift
 <!-- <img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> -->
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
-<img align="left" alt="Puppet" width="26px" src="https://image.pngaaa.com/796/210796-middle.png" />
+<img align="left" alt="Puppet" width="26px" src="https://fuzzco.com/wp-content/uploads/2016/04/p-25-800x800.png" />
 
 <br />
 <br />
