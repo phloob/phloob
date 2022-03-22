@@ -32,7 +32,7 @@ Config management, k8s, Swift
 <br />
 <br />
 
----
+<!-- ---
 ### Likes:
 
 🚲
@@ -55,5 +55,5 @@ Penny✨
 - Tim & Eric
 
 🎧
-- Office Hours Live
+- Office Hours Live -->
 ---
