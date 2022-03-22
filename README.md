@@ -8,13 +8,6 @@ Config management, k8s, Swift
     - 🚴 Rides // *Play*
 - 👨‍🎨 Stoked 🌴 🏄‍♀️
 
-
-<!-- [<img align="left" alt="max.koerbaecher.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NativeCloud.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rss.svg" />][blog]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />][keybase] -->
-
 <br />
 
 ### Tools:
@@ -29,9 +22,8 @@ Config management, k8s, Swift
 <img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 <img align="left" alt="Puppet" width="26px" src="https://fuzzco.com/wp-content/uploads/2016/04/p-25-800x800.png" />
 <img align="left" alt="OpenShift" width="26px" src="https://www.aplyca.com//sites/default/files/gbb-uploads/Group%2012-su1jqv.png" />
-<img align="right" alt="Swift" width="26px" src="https://developer.apple.com/swift/images/swift-og.png" />
+<img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/images/swift-og.png" />
 <br />
 <br />
 
 # 🚲 - 💻 - 🐕 - 📚 - 📺 - 🎧
----
