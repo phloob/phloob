@@ -26,7 +26,7 @@ Config management, k8s, Swift
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 <img align="left" alt="Puppet" width="26px" src="https://fuzzco.com/wp-content/uploads/2016/04/p-25-800x800.png" />
-
+<img align="left" alt="OpenShift" width="26px" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.png" />
 <br />
 <br />
 
