@@ -33,5 +33,27 @@ Config management, k8s, Swift
 <br />
 
 ---
+### Likes:
 
+🚲
+- World Tour
+- Alt Tour
+- Gravel
+- Underground SD race scene
+
+🐕
+Penny✨
+
+📚
+- Classic sci-fi
+- History
+- The old stuff
+
+📺
+- Sopranos
+- ST: Voyager
+- Tim & Eric
+
+🎧
+- Office Hours Live
 ---
