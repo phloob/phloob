@@ -2,7 +2,7 @@
 
 Config management, k8s, Swift
 
-- 🥇 2022 ~
+- ~
     - 📱 iOS // *Learn*
     - ⛅️ k8s // *Work*
     - 🚴 Rides // *Play*
