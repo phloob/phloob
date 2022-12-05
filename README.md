@@ -1,6 +1,6 @@
 ## Hey, I'm Phil
 
-Config management, k8s, Swift
+Platform Engineer
 
 - ~
     - 📱 iOS // *Learn*
